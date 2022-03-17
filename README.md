@@ -1,6 +1,6 @@
 # Sistema Operacional Alice Human
 Seja Bem Vindo ao seu sistema operacional Alice Human integrado com a inteligência artificial EVA, a primeira assistente virtual de código aberto e em lingua Portuguesa do Mundo.
-O projeto da assistente virtual EVA foi desenvovida pelo Laboratório da Drª Profª Gleici e financiado projeto PPSUS da FAPESP.
+O projeto da assistente virtual EVA foi desenvolvida pelo Laboratório da Drª Profª Gleici e financiado projeto PPSUS da FAPESP.
 
 Página do Projeto: www.eva.fmrp.usp.br
 Página da Profª Gleici: www.gleici.fmrp.usp.br
@@ -19,4 +19,8 @@ O sitema de animação é possível graças a biblioteca ![Glava](https://www.li
     wave: desenha o som em formato de onda conforme fornecido pelo PulseAudio
     circle: desenha um círculo em formato de onda
     
+ Já a voz artificial é provienciada pelo programa espeak e já vem instalado por padrão quatro tipos de vozes, sendo duas marculina em português brasileiro, uma feminina em português brasileiro e uma masculina em poruguês de Portugal.
+ 
+ [![Veja a mensagem](https://img.youtube.com/vi/CvMB58F3ELA/maxresdefault.jpg)](https://youtu.be/CvMB58F3ELA)
+ 
     
