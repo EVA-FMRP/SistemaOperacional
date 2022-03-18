@@ -24,5 +24,6 @@ O sitema de animação é possível graças a biblioteca ![Glava](https://www.li
  [![Veja a mensagem](https://img.youtube.com/vi/CvMB58F3ELA/maxresdefault.jpg)](https://youtu.be/CvMB58F3ELA)
  
  ## Tela de Login
+ A tela de login é a interface onde os usuários do Sistema Operacional tem a cesso ao sistema. Como o nome do Sistema Operacional é inspirado em alice no país das maravilhas, o tema das animações são os personagens do filme, que nada mais são do que gifs para representar os usuários, como o Gato e a Alice demonstrado na animação abaixo. Se você deseja colaborar fazendo animações oficiais para o projeto - por favor entre em contato conosco. 
   
-  ![Tela de Login](EVA_TelaDeLogin.GIF)
+ ![Tela de Login](EVA_TelaDeLogin.GIF)
